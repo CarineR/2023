@@ -1,8 +1,10 @@
 ---
-title: Les traces qu'on laisse sur le web quand on est trans et développeuse, et comment les modifier
+title: Changer d'identité quand on est trans et développeuse ou comment je suis devenue experte en anti-SEO
 type: conference
 authors: ["agate-blue"]
-time: "09:00"
+time: "15:15"
 ---
 
-*To be completed*
+Quand on change d'identité et qu'on a un minimun de visibilité, on apprend à détester certaines choses : Wikipédia, forums, archive.org, cache Google, historiques Git… Les pièges sont nombreux, inattendus et ingénieux !
+
+Agate vous propose de découvrir comment en désamorcer certains, et comment faciliter la vie des personnes trans si vous concevez, développez ou hébergez des sites ou applications. 
